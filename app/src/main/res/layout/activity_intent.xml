@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    android:background="@drawable/rainbow"
+    android:background="@drawable/snow"
     >
 
     <Button
@@ -12,7 +12,7 @@
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="Call Phone"
+        android:text="Call"
         android:textStyle="bold"
         android:background="@drawable/custom_button"
         android:layout_gravity="center"/>
@@ -21,7 +21,7 @@
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="Web Site"
+        android:text="WebSite"
         android:textStyle="bold"
         android:background="@drawable/custom_button"
         android:layout_gravity="center"/>
@@ -31,7 +31,7 @@
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="Google Maps"
+        android:text="Maps"
         android:textStyle="bold"
         android:background="@drawable/custom_button"
         android:layout_gravity="center"/>

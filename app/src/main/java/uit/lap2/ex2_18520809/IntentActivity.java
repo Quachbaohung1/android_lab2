@@ -25,7 +25,7 @@ public class IntentActivity extends AppCompatActivity {
 
         btn_call.setOnClickListener((View view) -> {
             Intent callIntent = new Intent(Intent.ACTION_DIAL);
-            callIntent.setData(Uri.parse("tel:" + "123456789"));
+            callIntent.setData(Uri.parse("tel:" + "0359582138"));
             startActivity(callIntent);
         });
 
